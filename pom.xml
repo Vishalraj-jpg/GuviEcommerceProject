@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.learn</groupId>
-  <artifactId>mycart</artifactId>
+  <artifactId>URcart</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>mycart Maven Webapp</name>
+  <name>URcart Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -38,6 +38,6 @@
   
   
   <build>
-    <finalName>mycart</finalName>
+    <finalName>URcart</finalName>
   </build>
 </project>
